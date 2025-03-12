@@ -21,7 +21,7 @@
 
     <footer class = "flex flex-row w-full bg-gradient-to-r from-pink-400 to-pink-800 border-purple-400 items-center justify-center px-4 py-2 gap-4">
         <a href="https://www.youtube.com/"><img src="C:\Users\mitya\pups\megapups\assets\images\Youtube_logo.png" class = "w-16 h-16"></a>
-        <a href="https://github.com/"><img src="C:\Users\mitya\pups\megapups\assets\images\github.png" class = "w-16 h-16"></a>
+        <a href="https://github.com/"><img src="assets/images/github.png" class = "w-16 h-16"></a>
         <a href="https:www.facebook.com/"><img src="assets/images/Facebook.png" class = "w-16 h-16"></a>
     </footer>
 </template>
